@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "V93xx_Breakout")(type "KiCad")(uri "C:/Users/tisha/dev/V93xx_Breakout/V93xx_Breakout.kicad_sym")(options "")(descr ""))
+  (lib (name "V93xx_Breakout")(type "KiCad")(uri "../V93xx_Breakout.kicad_sym")(options "")(descr ""))
 )
