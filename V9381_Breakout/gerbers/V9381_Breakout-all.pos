@@ -1,0 +1,25 @@
+### Footprint positions - created on Sat Mar  8 19:07:15 2025 ###
+### Printed by KiCad version 7.0.7
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val         Package                                             PosX       PosY       Rot  Side
+C1        33n         C_0603_1608Metric                               154.3820   -93.7260    0.0000  top
+C2        33n         C_0603_1608Metric                               154.3820   -92.2020  180.0000  top
+C3        100p        C_0603_1608Metric                               149.6060   -93.7260   90.0000  top
+C4        33n         C_0603_1608Metric                               150.9640   -99.5680  180.0000  top
+C5        33n         C_0603_1608Metric                               154.0120   -99.5680  180.0000  top
+C6        4.7u        C_0805_2012Metric                               145.0340   -85.8520    0.0000  top
+C7        100n        C_0603_1608Metric                               145.2880   -83.8200    0.0000  top
+C8        100n        C_0603_1608Metric                               149.3520   -90.9320    0.0000  top
+C9        100n        C_0603_1608Metric                               151.3840   -87.1220   90.0000  top
+C10       4.7u        C_0805_2012Metric                               149.3520   -87.3760   90.0000  top
+J1        Conn_01x10  PinHeader_1x10_P2.54mm_Vertical                 134.6200  -106.2990   90.0000  top
+R1        2R2         R_0603_1608Metric                               154.3690   -96.7740  180.0000  top
+R2        2R2         R_0603_1608Metric                               154.3690   -89.1540    0.0000  top
+R3        1k          R_0603_1608Metric                               154.3690   -95.2500  180.0000  top
+R4        1k          R_0603_1608Metric                               154.3690   -90.6780  180.0000  top
+R5        1k          R_0603_1608Metric                               150.8760  -101.0920    0.0000  top
+R6        1k          R_0603_1608Metric                               154.1780  -101.0920  180.0000  top
+U1        V9381       SSOP-24_5.3x8.2mm_P0.65mm                       142.4940   -92.2020  180.0000  top
+X1        XO32        Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm   146.8250   -99.6270  180.0000  top
+## End
